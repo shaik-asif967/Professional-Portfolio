@@ -167,8 +167,7 @@ src/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
-```
+https://github.com/shaik-asif967/Professional-Portfolio.git
 
 Navigate to project folder:
 
