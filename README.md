@@ -230,11 +230,11 @@ The portfolio is optimized for:
 
 Full Stack Developer | AI/ML Enthusiast
 
-📧 Email: your-email@example.com
+📧 Email: shaikasif2026@example.com
 
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+🔗 LinkedIn: https://www.linkedin.com/in/shaikasif369/
 
-💻 GitHub: https://github.com/your-username
+💻 GitHub: https://github.com/shaik-asif967
 
 ---
 
