@@ -1,243 +1,85 @@
-# 🚀 Asif's Interactive Developer Portfolio
+# 💻 Kunj Desai — Portfolio Website 2
+Welcome to my personal portfolio website built with **React.js**, **Framer Motion**,**Figma for Design** and **modern UI design** principles.
+It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
 
-A modern and responsive developer portfolio designed to showcase my projects, certifications, technical skills, achievements, blogs, and professional experience.
+🌐 **Website:** [[[kunj-Portfolio]]](https://kunj-desai.Netligy.app/)
 
-## 🌐 Live Demo
+🖼️ **Screenshots**
 
-Add your deployed website link here:
+<img width="1906" height="996" alt="image" src="https://github.com/user-attachments/assets/6af39e75-5193-40c8-8647-895624cf75b6" />
+<img width="1919" height="995" alt="image" src="https://github.com/user-attachments/assets/7e734995-418f-4493-9bb3-955140c85488" />
+<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/cd87a897-50e0-4c96-94be-43e0846bc238" />
+<img width="1919" height="989" alt="image" src="https://github.com/user-attachments/assets/55400ed0-3b2a-4c88-ae61-a3ebe735a436" />
+---
 
-https://your-portfolio-link.vercel.app
+## 🚀 Features
+
+* 🎨 **Modern UI/UX** with black-based aesthetic theme used **FIgma Design**
+* ⚡ Smooth **Framer Motion** animations
+* 💼 **Projects, Resume, and Contact sections**
+* 🧠 Tech-focused portfolio highlighting AI/ML projects
+* 📨 Functional contact form powered by **EmailJS**
+* 🧩 Responsive design for all screen sizes
 
 ---
 
-## 📌 Overview
+## 🛠️ Tech Stack
 
-This portfolio serves as my personal digital presence, highlighting my journey as a Full Stack Developer and AI/ML Enthusiast.
-
-The website provides visitors with an engaging experience through modern UI design, smooth animations, responsive layouts, and interactive sections.
-
----
-
-## ✨ Features
-
-### 🏠 Home Section
-- Professional introduction
-- Animated hero section
-- Social media links
-- Call-to-action buttons
-
-### 👨‍💻 About Section
-- Personal profile overview
-- Career objectives
-- Educational background
-
-### 🛠 Skills Section
-- Programming languages
-- Frameworks & libraries
-- Development tools
-- Technical expertise
-
-### 🚀 Projects Section
-
-Featured Projects:
-
-#### 📄 DocuChat AI
-AI-powered PDF Question Answering Assistant that allows users to upload documents and interact with them through natural language conversations.
-
-#### 🩺 Diabetes Prediction System
-Machine Learning application that predicts diabetes risk based on medical parameters using classification algorithms.
+| Category            | Tools / Libraries                        |
+| ------------------- | ---------------------------------------- |
+| **Frontend**        | React.js, HTML5, CSS3,Typescript,tailwind CSS ,Figma |
+| **Styling**         | Tailwind CSS / Custom CSS                |
+| **Animation**       | Framer Motion                            |
+| **Contact Form**    | EmailJS                                  |
+| **Version Control** | Git & GitHub                             |
+| **Deployment**      | Vercel / Netlify                         |
 
 ---
 
-### 🏆 Certifications
+## ⚙️ Setup Instructions
 
-Includes certifications from:
-
-- Deloitte Cyber Job Simulation
-- HackerRank Java Certification
-- Infosys Springboard Java for Beginners
-- Infosys HTML & CSS3 Advanced Training
-
----
-
-### 📝 Technical Blogs
-
-Personal blog section covering:
-
-- AI Development
-- Clean Coding Practices
-- Future Technologies
-- Software Engineering Concepts
-
----
-
-### 🖼 Gallery
-
-Project showcase gallery featuring:
-
-- UI/UX Designs
-- Project Screenshots
-- Development Highlights
-
----
-
-### 📄 Resume
-
-Visitors can directly view and download my latest resume.
-
----
-
-### 📬 Contact Section
-
-Integrated contact form using EmailJS for direct communication.
-
-Features:
-- Name
-- Email
-- Message
-- Instant email delivery
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-
-- React.js
-- TypeScript
-- Vite
-- Tailwind CSS
-
-### UI Components
-
-- Radix UI
-- Lucide React Icons
-- React Icons
-
-### Animations
-
-- Framer Motion
-- React Type Animation
-
-### Routing
-
-- React Router DOM
-
-### Forms
-
-- React Hook Form
-
-### Email Service
-
-- EmailJS
-
-### Charts & Visualization
-
-- Recharts
-
----
-
-## 📂 Project Structure
+To run this project locally:
 
 ```bash
-src/
-│
-├── components/
-│   ├── About
-│   ├── Home
-│   ├── Projects
-│   ├── Skills
-│   ├── Blogs
-│   ├── Gallery
-│   ├── Certificates
-│   ├── Resume
-│   ├── Contact
-│   └── UI Components
-│
-├── styles/
-├── public/
-├── assets/
-└── App.tsx
-```
+# 1️⃣ Clone the repository
+git clone https://github.com/kunj2803/kunj-portfolio2.git
 
----
+# 2️⃣ Navigate to project directory
+cd kunjdesai-portfolio
 
-## 🚀 Installation
-
-Clone the repository:
-
-```bash
-https://github.com/shaik-asif967/Professional-Portfolio.git
-
-Navigate to project folder:
-
-```bash
-cd portfolio
-```
-
-Install dependencies:
-
-```bash
+# 3️⃣ Install dependencies
 npm install
+
+# 4️⃣ Run development server
+npm start or npm run dev
 ```
 
-Run development server:
-
-```bash
-npm run dev
-```
-
-Build for production:
-
-```bash
-npm run build
-```
-
-Preview production build:
-
-```bash
-npm run preview
-```
+Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
 
 ---
 
-## 📱 Responsive Design
+## 📬 Contact
 
-The portfolio is optimized for:
+If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
-- Desktop
-- Laptop
-- Tablet
-- Mobile Devices
+* 📧 **Email:** [kunjd2803@gmail.com](mailto:kunjd2803@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/kunj-desai-07717b293](https://www.linkedin.com/in/kunj-desai-07717b293/)
 
 ---
 
-## 🎯 Future Enhancements
+## 🌟 Deployment
 
-- Dark / Light Theme Toggle
-- Admin Dashboard
-- Visitor Analytics
-- Blog CMS Integration
-- Project Filtering System
-- AI Chat Assistant
-- Performance Optimization
+Deployed seamlessly on **Vercel** and **Netlify** for continuous integration and fast CDN delivery.
+Every push to the `main` branch triggers an automatic rebuild and deployment.
 
 ---
 
-## 👨‍💻 Author
+### 🏁 License
 
-### Shaik Asif
-
-Full Stack Developer | AI/ML Enthusiast
-
-📧 Email: shaikasif2026@example.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/shaikasif369/
-
-💻 GitHub: https://github.com/shaik-asif967
+This project is open source and available under the [MIT License](LICENSE).
+Feel free to fork, use, and build upon it ⭐
 
 ---
 
-## ⭐ Support
+> *“Showcasing my work and passion through technology 💻”*
 
-If you like this project, consider giving it a star on GitHub.
