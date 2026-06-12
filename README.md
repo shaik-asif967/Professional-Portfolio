@@ -39,7 +39,7 @@ To run this project locally:
 https://github.com/shaik-asif967/Professional-Portfolio.git
 
 # 2️⃣ Navigate to project directory
-cd kunjdesai-portfolio
+cd Professional-portfolio
 
 # 3️⃣ Install dependencies
 npm install
