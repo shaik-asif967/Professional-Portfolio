@@ -36,7 +36,7 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/kunj2803/kunj-portfolio2.git
+https://github.com/shaik-asif967/Professional-Portfolio.git
 
 # 2️⃣ Navigate to project directory
 cd kunjdesai-portfolio
@@ -57,7 +57,7 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
 * 📧 **Email:** [shaikasif2026@gmail.com](mailto:shaikasif2026gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/kunj-desai-07717b293](www.linkedin.com/in/shaikasif369)
+* 💼 **LinkedIn:** [linkedin.com/in/shaikasif369](www.linkedin.com/in/shaikasif369)
 
 ---
 
