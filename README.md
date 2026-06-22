@@ -171,13 +171,13 @@ portfolio/
 Clone the repository:
 
 ```bash
-git clone https://github.com/shaik-asif967/portfolio.git
+git clone https://github.com/shaik-asif967/Professional-Portfolio.git
 ```
 
 Navigate to project folder:
 
 ```bash
-cd portfolio
+cd Professional-Portfolio
 ```
 
 Install dependencies:
