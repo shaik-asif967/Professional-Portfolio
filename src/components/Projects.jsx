@@ -52,7 +52,15 @@ const PROJECTS = [
   tech: ["Python", "Pandas", "NumPy", "Scikit-Learn", "Flask"],
   live: "#",
   code: "https://github.com/shaik-asif967/Car-Price-Predictor-Using-Machine-Learning.git"
-  }
+  },
+  {
+  title: "🏏 IPL Winning Probability Predictor",
+  desc: "An end-to-end Machine Learning application that predicts real-time IPL match winning probabilities using historical IPL data. Built with Python, Streamlit, Scikit-Learn, XGBoost, and Plotly, featuring advanced feature engineering, interactive dashboards, and live probability visualizations.",
+  ss: "/ipl-winning.png",
+  tech: ["Python", "Streamlit", "Pandas", "NumPy", "Scikit-Learn", "XGBoost", "Plotly", "Matplotlib", "Joblib"],
+  live: "#",
+  code: "https://github.com/shaik-asif967/IPL-Winning-Probability-Predictor"
+}
 ];
 
 export default function Projects() {
