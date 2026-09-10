@@ -183,10 +183,13 @@ export function Resume() {
 
           <ul className="project-list">
             {[
-              "- Breast Cancer Detection using YOLO + Ensemble CNN",
-              "- DocuChat – Document Q&A Chatbot (Gemini API)",
-              "- Indian Sign Language Interpreter — in progress",
-              "- Mental Health Analyzer using NLP",
+             "- Quiz Arena Pro",
+"- Event Management System",
+"- Personal Portfolio Website",
+"- Expense Monitor: Dark Mode Finance Terminal",
+"- Diabetes Prediction",
+"- Car Price Predictor",
+"- IPL Winning Probability Predictor",
             ].map((project, i) => (
               <motion.li
                 key={i}
